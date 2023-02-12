@@ -54,9 +54,9 @@ export default {
   display: flex;
   max-width: 1000px;
   width: 100%;  gap: 3rem;
-  margin: 0 auto;   
+  margin: 30px auto;   
   padding: 10px;
-  min-height:150px ;
+  min-height:150px ;  
   flex-direction: column;
 }
 .i img{
@@ -89,6 +89,7 @@ export default {
   height: 70px;   position: relative;
   box-shadow: 15px 15px 8px hsl(180, 31%, 95%);
   background: #ffff;  
+  
 }
 .search button{
      color: hsl(180, 8%, 52%);
