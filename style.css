@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    overflow-x: hidden;
+}
+#app{ 
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x:hidden ;  
+    background: hsl(180, 52%, 96%);
+    /* padding: 0px 10px; */
+}
+
